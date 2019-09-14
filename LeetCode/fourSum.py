@@ -27,4 +27,4 @@ def fourSum(n, t):
                     resultSet.add((a,b,c,d))
     print(resultSet)
 
-fourSum([1, 0, -1, 0, -2, 2],0)
+fourSum([1, 0, -1, 0, -2, 2,6,7,3,2,10],5)
