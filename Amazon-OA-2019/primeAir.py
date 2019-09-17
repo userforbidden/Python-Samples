@@ -1,4 +1,4 @@
-maxTravelDist = 10000
+maxTravelDist = 11000
 forwardRouteList = [[1,3000],[2,5000],[3,7000],[4,10000]]
 returnRouteList = [[1,2000],[2,3000],[3,4000],[4,5000]]
 
