@@ -27,4 +27,8 @@ def fourSum(n, t):
                     resultSet.add((a,b,c,d))
     print(resultSet)
 
+<<<<<<< Updated upstream
 fourSum([1, 0, -1, 0, -2, 2,6,7,3,2,10],5)
+=======
+fourSum([1, 0, -1, 0, -2, 2,2,1,5,-5],0)
+>>>>>>> Stashed changes
