@@ -19,5 +19,5 @@ def meetingRoom(intervals):
     print(len(free_rooms))
 
 
-intervals = [[0, 30],[5, 10],[15, 20]]
+intervals = [[0, 30],[5, 10],[15, 20],[2,7],[5,15],[10,45]]
 meetingRoom(intervals)
