@@ -1,6 +1,11 @@
-files = [4,4,6,12]
+import heapq
+
+files = [4,4,6,12,2,6,7,12]
 
 resultList = []
+"""
+Simple approach
+
 tempFile = files[:]
 for n in files:
     if len(tempFile) != 1:
@@ -11,5 +16,17 @@ for n in files:
         z = x + y
         resultList.append(z)
         tempFile.append(z)
+
+""" 
+#Heap Approach
+heapq.heapify(files)
+
+while len(files) > 1:
+    x = heapq.heappop(files)
+    y = heapq.heappop(files)
+    resultList.append(x+y)
+    heapq.heappush(files,x+y)
+
+
 print(sum(resultList))
 
