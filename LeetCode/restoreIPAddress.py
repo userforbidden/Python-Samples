@@ -49,3 +49,4 @@ class Solution:
         return output
 
 print(Solution().restoreIpAddresses('100013545645745'))
+print(Solution().restoreIpAddresses('0000'))

@@ -31,5 +31,5 @@ class Solution(object):
     #     return result
 
 
-n = 4
+n = 3
 print(Solution().generateParenthesis(n))

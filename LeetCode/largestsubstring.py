@@ -1,5 +1,3 @@
-import itertools
-
 class Solution:
     def lengthOfLongestSubstring(self, s):
         start = maxLength = 0
