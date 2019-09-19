@@ -1,4 +1,4 @@
-
+from operator import floordiv
 def expandAroundCenter(s,left,right):
     while left >= 0 and right < len(s) and s[left] == s[right]:
         left -= 1
@@ -19,12 +19,12 @@ def longestPalindrome(s):
 
         flen = max(len1,len2)
 
-        if flen > end - start:
-            start = int(i - (flen - 1) / 2)
-            end = int(i + flen/2)
+        if flen > (end-start):
+            start = int(i - (floordiv((flen-1),2)))
+            end = int(i + (floordiv(flen,2)))
 
     return s[start:end+1]
 
 
-print(longestPalindrome("babmalayalamad"))
+print(longestPalindrome("cbbd"))
 
