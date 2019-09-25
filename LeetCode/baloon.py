@@ -1,4 +1,4 @@
-text = 'nlaebolko'
+text = 'nlaebolkoballoon'
 ans = len(text)
 for l in 'ban':
     ans = min(ans,text.count(l))
