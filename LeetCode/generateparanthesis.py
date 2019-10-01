@@ -32,4 +32,5 @@ class Solution(object):
 
 
 n = 4
+
 print(Solution().generateParenthesis(n))
