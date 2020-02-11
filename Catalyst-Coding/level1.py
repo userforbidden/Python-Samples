@@ -7,6 +7,8 @@ import math
 class level1():
 
     def __init__(self):
+        self.var1 = ""
+        self.var2 = ""
         pass
 
     
