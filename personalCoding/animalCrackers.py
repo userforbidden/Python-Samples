@@ -4,4 +4,4 @@ def animalCrackers(text):
     return wordlist[0][0] == wordlist[1][0] #compare first letter of first word with first letter of 2nd word and return true or false
 
 # the below is the drive code 
-print(animalCrackers('line lain'))
+print(animalCrackers('hippo hitle'))

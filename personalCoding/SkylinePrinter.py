@@ -7,4 +7,4 @@ def myfunc(word):
             Skyline += letter.upper()
     return Skyline
 
-print(myfunc('somebiglargestringsomebiglargestringsomebiglargestringsomebiglargestringsomebiglargestringsomebiglargestringsomebiglargestringsomebiglargestringsomebiglargestringsomebiglargestringsomebiglargestring'))
+print(myfunc('hippo'))
