@@ -1,0 +1,62 @@
+TotalProtein = 14
+###### 5 ----------
+Seq = hphpphhphpphphhpphph
+Fitness = -9
+
+###### 1 ----------
+Seq = pphpphhpphhppppphhhhhhhhhhpppppphhpphhpphpphhhhh
+Fitness = -22
+
+###### 2 ----------
+Seq = hhhhhhhhhhhhphphpphhpphhpphpphhpphhpphpphhpphhpphphphhhhhhhhhhhh
+Fitness = -42
+
+###### 3 ----------
+Seq = pphhhphhhhhhhhppphhhhhhhhhhphppphhhhhhhhhhhhpppphhhhhhphhphp
+Fitness = -34
+
+###### 4 ----------
+Seq = pphpphhpppphhpppphhpppphh
+Fitness = -8
+
+###### 6 ----------
+Seq = hhhpphphphpphphphpph
+Fitness = -10
+
+###### 7 ----------
+Seq = hhphphphphhhhphppphppphpppphppphppphphhhhphphphphh
+Fitness = -21
+
+###### 8 ----------
+Seq = hhhpphphphpphphphpph
+Fitness = -10
+
+###### 9 ----------
+Seq = hphpphhphpphphhpphph
+Fitness = -9
+
+###### 10 ----------
+Seq = ppphhpphhppppphhhhhhhpphhpppphhpphpp
+Fitness = -14
+
+###### 11 ----------
+Seq = hhpphpphpphpphpphpphpphh
+Fitness = -9
+
+###### 12 ----------
+Seq = hhhhhhhhhhhhphphhhpphhhpphhhhpphhhpphhhphphhhhhhhhhhhh
+Fitness = -42
+
+###### 13 ----------
+Seq = hhhhhhhhhhhhphphhhhhhhhhhhhhhhhphphhhhhhhhhhhh
+Fitness = -42
+
+###### 14 ----------
+Seq = hhhhhhhhhhhhphphpphhpphhpphpphhpphhpphpphhpphhpphphphhhhhhhhhhhh
+Fitness = -42
+
+
+
+Comment: Fitness = 0 => not defined, to determine.
+
+
