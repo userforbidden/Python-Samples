@@ -1,0 +1,4 @@
+0 [0.39599609]
+1 [0.41048177]
+2 [0.19352214]
+Iteration where convergence achieved is 9
